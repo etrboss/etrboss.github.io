@@ -26,7 +26,7 @@ https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="LIVE EVENT CHANNELS",G TV 
 http://103.151.60.214:7444/1102/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="LIVE EVENT CHANNELS", T Sports  
-http://103.151.60.214:7444/1101/video.m3u8
+http://livetvbox.live:8080/live/Derrick/Derrick/130714.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="LIVE EVENT CHANNELS", T Sports HD 
 https://humsab.xyz/GBanTv/index.m3u8
 
