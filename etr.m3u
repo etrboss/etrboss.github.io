@@ -31,8 +31,6 @@ https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=t_sports
 https://humsab.xyz/GBanTv/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png"group-title="INDIAN BANGLA",Star Jalsha
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png"group-title="INDIAN BANGLA",Star Jalsha HD
 http://xtv.ooo:8080/Sehrish/12345/245898
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png"group-title="INDIAN BANGLA",Zee Bangla HD
@@ -82,13 +80,15 @@ http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NjgzxKW/IMG-20240126-084336.png" group-title="BANGLADESHI",Independent TV
 http://cdn01.palki.tv/live/Independent-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/JphS5Vz/IMG-20240126-092252.png",SA TV
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=sa_tv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sPqKzqb/IMG-20240126-111848.jpg" group-title="BANGLADESHI",Jago News 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/64H4Wkx/IMG-20240126-091821.png"group-title="BANGLADESHI",N TV
-https://himel-op.top/api/ytop.m3u8?id=bX3hSzi8r94
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=ntv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yV30RC/IMG-20240126-084454.jpg"group-title="BANGLADESHI",NTV EUROPE
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png"group-title="BANGLADESHI", Nagorik TV
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=nagorik_tv
 #EXTINF:-1 group-title="BANGLADESHI"tvg-logo="https://i.ibb.co/BK12TH7/IMG-20240126-092224.png",R TV
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1nY7r1L/IMG-20240129-063448.jpg" group-title="BANGLADESHI",MY TV
@@ -156,11 +156,11 @@ https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/WDxqm58/IMG-20240129-064224.jpg",The Channel Tv
 https://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3m3DZnV/IMG-20240126-092007.jpg"group-title="BANGLADESHI",TIME TELEVISION
-https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3cKb7Ln/IMG-20240126-092059.png"group-title="BANGLADESHI",TV ONE
 https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/9M8nZFqQ/download-11.png",Times 24
-https://livess.ncare.live/live-orgin/times24tv.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/DYQ9NGM/IMG-20240129-064118.jpg",Varendra Tv
 https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/h8XTTZb/IMG-20240129-063732.jpg",NRB HD Tv
@@ -169,13 +169,13 @@ https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG-20240129-064856.jpg",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jpg",NAZARA 
+#EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jp",NAZARA 
 https://epiconvh.s.llnwi.net/nazara/master.m3u8
-#EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jpg",Epic
+#EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jg",Epic
 https://epiconvh.s.llnwi.net/epic/master.m3u8
-#EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jpg",Shemaroo Bollywood
+#EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jg",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jpg",B4U
+#EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jp",B4U
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jpg",Movie Club
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
@@ -185,9 +185,9 @@ https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jpg",Zee World
 https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/Zzj7q0D/IMG-20240126-115732.png",Zee TV
-
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=zee_tv 
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/193nw47/IMG-20240126-115928.jpg",Zee Cinema HD 
-
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=zee_cinema_hd
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg",Filamchi
 https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/1bKXj1x/IMG-20240126-093309.png",Sony SET 
@@ -291,7 +291,6 @@ https://bdtubelive.xyz/yupptv-hd.m3u8?id=wow-kidz-hindi
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/hHLG38G/IMG-20240129-070736.png",Nick JR
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sFL597P/IMG-20240320-115804.jpg" group-title="KIDS", Sonic
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
 
 #EXTINF:-51 tvg-logo="https://i.ibb.co/d0jxZmt/image-search-1713979386485.png"group-title="KIDS",Sony YAY
 http://portal.code-crafters.app/app/play.m3u8?id=1656
