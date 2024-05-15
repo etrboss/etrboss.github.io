@@ -21,6 +21,9 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 , HBO 2
 http://170.254.18.106/HBO2/index.m3u8
 
+#EXTINF:-1 , AXN
+http://170.254.18.106/AXN/index.m3u8
+
 #EXTINF:-1 , Shemarooenterta 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
@@ -42,11 +45,65 @@ http://170.254.18.107/CINEPLEX/index.m3u8
 #EXTINF:-1 , Zee Cinema 
 http://170.254.18.107/ZEECINEMA/index.m3u8
 
-#EXTINF:-1 , AXN
-http://170.254.18.106/AXN/index.m3u8
-
 #EXTINF:-1 , Colors 
 http://170.254.18.107/COLORS/index.m3u8
+
+#EXTINF:-1 , ck 1
+https://sony.tamilbulbtv.live/watch.php?id=1000009246&e=.m3u8
+
+#EXTINF:-1 , ck 2
+https://sony.tamilbulbtv.live/watch.php?id=1000009248&e=.m3u8
+
+#EXTINF:-1 , ck 3
+https://sony.tamilbulbtv.live/watch.php?id=1000044878&e=.m3u8
+
+#EXTINF:-1 , ck 4
+https://sony.tamilbulbtv.live/watch.php?id=1000009253&e=.m3u8
+
+#EXTINF:-1 , ck 5
+https://sony.tamilbulbtv.live/watch.php?id=1000009273&e=.m3u8
+
+#EXTINF:-1 , ck 6
+https://keralamaxtv.com/sony/watch.php?id=1000001971&e=.m3u8
+
+#EXTINF:-1 , ck 7
+https://sony.tamilbulbtv.live/watch.php?id=1000009258&e=.m3u8
+
+#EXTINF:-1 , ck 8
+https://sony.tamilbulbtv.live/watch.php?id=1000044878&e=.m3u8
+
+#EXTINF:-1 , Sun Bangla Cinema 
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+
+#EXTINF:-1 , ck 10
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
+
+#EXTINF:-1 , ck 
 
 #EXTINF:-1 , ck 
 
