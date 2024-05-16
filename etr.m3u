@@ -1,4 +1,5 @@
 
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",BONGO  FLIX
@@ -24,7 +25,7 @@ https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="LIVE EVENT",G TV 
-https://mahabubur@vsd165.mycdn.me/hls/6190490520285.m3u8/sig/bgvEMV6TlMs/expires/1715878663946/srcIp/27.123.253.171/urls/185.226.53.95/clientType/0/srcAg/CHROME_ANDROID/mid/6825724878557/6190490520285/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="LIVE EVENT", T Sports  
 https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=t_sports
@@ -56,6 +57,12 @@ http://opplex.tv:8080/live/223322/223322/245989.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA"tvg-logo="https://i.ibb.co/5xQRLnD/IMG-20240126-113422.jpg",Zee Bangla Cinema
 http://xtv.ooo:8080/Sehrish/12345/245897
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/z8cPBwx/IMG-20240330-183245.jpg",Sananda Tv
+https://fr.tvanondo.online/sananda/video.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA"tvg-logo="https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",Sun Bangla Cinema
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/3v0dcsL/20240430-223015.png",Akash Aath
 http://xtv.ooo:8080/Sehrish/12345/245928
@@ -193,9 +200,9 @@ https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=zee_cinema_hd
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg",Filamchi
 https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/1bKXj1x/IMG-20240126-093309.png",Sony SET 
-
+http://170.254.18.107/SONY/index.m3u8
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/V3Zhf2t/IMG-20240126-093241.png",Sony MAX HD
-
+http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1 group-title="INDIAN HINDI" tvg-logo="https://i.ibb.co/BZ5vMqQ/IMG-20240129-065245.jpg",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 
