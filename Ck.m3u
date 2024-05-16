@@ -132,11 +132,14 @@ http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 , Zee Bangla Cinema 
 http://tv.cloudcdn.me/live.ts?channelId=119&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1 , ck 
+#EXTINF:-1 ,Nick
+http://tv.cloudcdn.me/live.ts?channelId=254&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1 , ck 
+#EXTINF:-1 , Sonic
+http://tv.cloudcdn.me/live.ts?channelId=40476&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1 , ck 
+#EXTINF:-1 ,T Sports 
+http://176.119.29.52/live.ts?channelId=48010&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 , ck 
 
