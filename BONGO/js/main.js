@@ -9,9 +9,9 @@ $(document).ready(function () {
             ]
         },
         {
-            name: 'Channel 2',
+            name: 'Star Jalsha',
             sources: [
-                {src: 'http://10.10.10.2/live/fnffeed1002/index.m3u8', type: 'application/x-mpegURL'},
+                {src: 'http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1', type: 'application/x-mpegURL'},
             ]
         },
         {
