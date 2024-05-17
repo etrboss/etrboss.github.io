@@ -3,9 +3,9 @@ $(document).ready(function () {
 
     player.playlist([
 	 {
-            name: 'Channel 1',
+            name: 'Deen TV',
             sources: [
-                {src: 'http://10.10.10.2/live/fnffeed1001/index.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
             ]
         },
         {
