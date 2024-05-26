@@ -60,8 +60,9 @@ https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png"group-title="INDIAN BANGLA",Star Jalsha
-http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://starshare.live:8080/live/Sylvia/Sylvia/98883.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png"group-title="INDIAN BANGLA",Star Jalsha HD
+http://xtv.ooo:8080/live/shahz18/18usman/245898.ts
 http://xtv.ooo:8080/Sehrish/12345/245898
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png"group-title="INDIAN BANGLA",Zee Bangla HD
 http://xtv.ooo:8080/Sehrish/12345/245893
