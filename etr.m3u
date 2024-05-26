@@ -10,14 +10,29 @@ https://drive.usercontent.google.com/u/0/uc?id=14jrlY8FXZXrHR7PXza-MRKqHLsB8JIOW
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s" group-title="LIVE EVENT",BAN VS USA 
 http://starshare.live:8080/live/Sylvia/Sylvia/3802.m3u8
-
-
 #EXTINF:-1  tvg-logo="" group-title="LIVE EVENT",PAK VS ENG
 http://starshare.live:8080/live/Sylvia/Sylvia/158442.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="LIVE EVENT", T Sports  
 http://starshare.live:8080/live/T20C227070225533/202210886677/52500.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="LIVE EVENT", T Sports HD 
 https://humsab.xyz/GBanTv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7y4JMGw/IMG-20240324-053136.jpg" group-title="LIVE EVENT", Star Sports 1
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",Super Cricket
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FKZW7QG/IMG-20240324-052426.jpg" group-title="LIVE EVENT", SKY Sports Cricket
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/ZgN6LY4/IMG-20240324-053044.png",CricLife 1
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/84Sqm5L/IMG-20240129-072506.jpg",Willow HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/261tbRp/IMG-20240324-052842.png" group-title="LIVE EVENT",ASTRO CRICKET
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kKzTfTs/IMG-20240217-090806.jpg" group-title="LIVE EVENT", TEN SPORTS
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png"group-title="ISLAMIC",Peace Tv Bangla
