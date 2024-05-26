@@ -20,9 +20,9 @@ http://starshare.live:8080/live/Sylvia/Sylvia/304296.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="LIVE EVENT", T Sports  
-
+http://starshare.live:8080/live/Sylvia/Sylvia/18452.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="LIVE EVENT", T Sports HD 
-
+http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7y4JMGw/IMG-20240324-053136.jpg" group-title="LIVE EVENT", Star Sports 1
 http://starshare.live:8080/live/Sylvia/Sylvia/98864.m3u8
