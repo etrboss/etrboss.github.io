@@ -96,9 +96,9 @@ http://xtv.ooo:8080/Sehrish/12345/245897
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png" group-title="BANGLADESHI",Somoy 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Somoy%20Tv.png" group-title="BANGLADESHI",Somoy 
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg" group-title="BANGLADESHI",Jamuna TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Jamuna%20Television.png" group-title="BANGLADESHI",Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M9LfKy2/IMG-20240126-084529.jpg" group-title="BANGLADESHI",News 24 HD
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
