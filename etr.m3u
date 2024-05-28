@@ -1,5 +1,3 @@
-
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vLgHnd2/20240527-163132.jpg",𝗕𝗼𝗻𝗴𝗼 𝗙𝗹𝗶𝘅
@@ -12,7 +10,7 @@ https://drive.usercontent.google.com/u/0/uc?id=14jrlY8FXZXrHR7PXza-MRKqHLsB8JIOW
 http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7y4JMGw/IMG-20240324-053136.jpg" group-title="LIVE EVENT", Star Sports 1
-http://starshare.live:8080/live/Sylvia/Sylvia/98864.m3u8
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",Super Cricket
 http://starshare.live:8080/live/Sylvia/Sylvia/158442.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FKZW7QG/IMG-20240324-052426.jpg" group-title="LIVE EVENT", SKY Sports Cricket
