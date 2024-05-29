@@ -93,7 +93,7 @@ http://xtv.ooo:8080/Sehrish/12345/245897
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/L6PkCht/IMG-20240129-064656.jpg",Amar Digital 
 
 
-
+https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/
 
 
 
@@ -107,15 +107,15 @@ https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/DBC%20NEWS.png" group-title="BANGLADESHI",DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W5cP3KT/IMG-20240126-084224.png" group-title="BANGLADESHI",Ekattor TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Ekattor%20Tv.png" group-title="BANGLADESHI",Ekattor TV HD
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NjgzxKW/IMG-20240126-084336.png" group-title="BANGLADESHI",Independent TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Independent.png" group-title="BANGLADESHI",Independent TV
 http://cdn01.palki.tv/live/Independent-M/index.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/JphS5Vz/IMG-20240126-092252.png",SA TV
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/SA%20Tv.jpg",SA TV
 https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=sa_tv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqKzqb/IMG-20240126-111848.jpg" group-title="BANGLADESHI",Jago News 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Jago%20News%2024.jpg" group-title="BANGLADESHI",Jago News 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/64H4Wkx/IMG-20240126-091821.png"group-title="BANGLADESHI",N TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/N%20Tv.png"group-title="BANGLADESHI",N TV
 https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=ntv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yV30RC/IMG-20240126-084454.jpg"group-title="BANGLADESHI",NTV EUROPE
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
