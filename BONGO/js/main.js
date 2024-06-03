@@ -21,21 +21,37 @@ $(document).ready(function () {
             ]
         },
         {
-            name: 'Channel 4',
+            name: 'T Sports HD',
             sources: [
-                {src: 'http://10.10.10.2/live/fnffeed1004/index.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8', type: 'application/x-mpegURL'},
             ]
 		},
 		{
-            name: 'Channel 5',
+            name: 'Star Sports 1',
             sources: [
-                {src: 'http://10.10.10.2/live/fnffeed1005/index.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://mominvaithanks.xyz/mominRocks/xtream.php?id=109987', type: 'application/x-mpegURL'},
             ]
         },
 		{
-            name: 'Channel 6',
+            name: 'Willow HD',
             sources: [
-                {src: 'http://10.10.10.2/live/fnffeed1006/index.m3u8', type: 'application/x-mpegURL'},
+                {src: 'http://xtv.ooo:8080/global/global/167583', type: 'application/x-mpegURL'},
+            ]
+        },
+	    
+		{
+            name: 'A Sports',
+            sources: [
+                {src: 'http://homeip.biz/PK_PS/index.m3u8', type: 'application/x-mpegURL'},
+            ]
+        },
+	    
+
+	    
+		{
+            name: 'S Cricket',
+            sources: [
+                {src: 'http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16481.ts', type: 'application/x-mpegURL'},
             ]
         }]);
 
