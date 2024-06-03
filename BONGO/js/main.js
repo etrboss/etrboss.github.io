@@ -3,21 +3,21 @@ $(document).ready(function () {
 
     player.playlist([
 	 {
-            name: 'Deen TV',
+            name: 'T20 Bangla',
             sources: [
-                {src: 'https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.toffeelive.com/live/match-2/master_1000.m3u8', type: 'application/x-mpegURL'},
             ]
         },
         {
-            name: 'Star Jalsha',
+            name: 'T20 English',
             sources: [
-                {src: 'http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1', type: 'application/x-mpegURL'},
+                {src: 'https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.toffeelive.com/live/match-1/master_1300.m3u8', type: 'application/x-mpegURL'},
             ]
         },
         {
-            name: 'Channel 3',
+            name: 'T Sports',
             sources: [
-                {src: 'http://10.10.10.2/live/fnffeed1003/index.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://mominvaithanks.xyz/mominRocks/ts.php?id=live-02&e.m3u8', type: 'application/x-mpegURL'},
             ]
         },
         {
