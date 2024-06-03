@@ -38,16 +38,12 @@ $(document).ready(function () {
                 {src: 'http://xtv.ooo:8080/global/global/167583', type: 'application/x-mpegURL'},
             ]
         },
-	    
 		{
             name: 'A Sports',
             sources: [
                 {src: 'http://homeip.biz/PK_PS/index.m3u8', type: 'application/x-mpegURL'},
             ]
         },
-	    
-
-	    
 		{
             name: 'S Cricket',
             sources: [
