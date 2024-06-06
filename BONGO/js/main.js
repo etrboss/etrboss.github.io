@@ -14,22 +14,23 @@ $(document).ready(function () {
                 {src: 'https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=I0W6rAsdWW8quRVugOYHyA&expires=1717738557&user=ff39d05fef0749028389f28943b73363', type: 'application/x-mpegURL'},
             ]
         },
-        {
-            name: 'Star Jalsha',
-            sources: [
-                {src: 'https://mominvaithanks.xyz/mominRocks/tata-play.php?id=245898', type: 'application/x-mpegURL'},
-            ]
-        },
+     
         {
             name: 'T Sports',
             sources: [
                 {src: 'https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=qYbL0x_ovLQnorjqSP9lwQ&expires=1717825566&user=ff39d05fef0749028389f28943b73363', type: 'application/x-mpegURL'},
             ]
 		},
-		{
-            name: 'Fox Cricket',
+	    {
+            name: 'ATN NEWS',
             sources: [
-                {src: 'https://mominvaithanks.xyz/mominRocks/moto.php?id=4164', type: 'application/x-mpegURL'},
+                {src: 'https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=pdjhTsNNgANiy23yOrK83Q&expires=1717825271&user=ff39d05fef0749028389f28943b73363', type: 'application/x-mpegURL'},
+            ]
+        },
+		{
+            name: 'MY TV',
+            sources: [
+                {src: 'https://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=E2F5qVe-zNnMb8rnwrY0ig&expires=1717825509&user=ff39d05fef0749028389f28943b73363', type: 'application/x-mpegURL'},
             ]
         },
 		{
