@@ -3,27 +3,27 @@ $(document).ready(function () {
 
     player.playlist([
 	 {
-            name: 'T20 Bangla',
+            name: 'Nagorik',
             sources: [
-                {src: 'https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.toffeelive.com/live/match-2/master_1000.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=4O-XEA7mTfKf9FHi70cflQ&expires=1717825533&user=ff39d05fef0749028389f28943b73363', type: 'application/x-mpegURL'},
             ]
         },
         {
-            name: 'T20 English',
+            name: 'G Tv',
             sources: [
-                {src: 'https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.toffeelive.com/live/match-1/master_1300.m3u8', type: 'application/x-mpegURL'},
-            ]
-        },
-        {
-            name: 'T Sports',
-            sources: [
-                {src: 'https://mominvaithanks.xyz/mominRocks/ts.php?id=live-02&e.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=I0W6rAsdWW8quRVugOYHyA&expires=1717738557&user=ff39d05fef0749028389f28943b73363', type: 'application/x-mpegURL'},
             ]
         },
         {
             name: 'T Sports HD',
             sources: [
-                {src: 'https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8', type: 'application/x-mpegURL'},
+                {src: 'http://113.212.111.246:8080/hls/col12.m3u8', type: 'application/x-mpegURL'},
+            ]
+        },
+        {
+            name: 'T Sports',
+            sources: [
+                {src: 'https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=qYbL0x_ovLQnorjqSP9lwQ&expires=1717825566&user=ff39d05fef0749028389f28943b73363', type: 'application/x-mpegURL'},
             ]
 		},
 		{
