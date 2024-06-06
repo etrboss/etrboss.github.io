@@ -15,9 +15,9 @@ $(document).ready(function () {
             ]
         },
         {
-            name: 'T Sports HD',
+            name: 'Star Jalsha',
             sources: [
-                {src: 'http://113.212.111.246:8080/hls/col12.m3u8', type: 'application/x-mpegURL'},
+                {src: 'https://mominvaithanks.xyz/mominRocks/tata-play.php?id=245898', type: 'application/x-mpegURL'},
             ]
         },
         {
