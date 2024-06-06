@@ -27,15 +27,15 @@ $(document).ready(function () {
             ]
 		},
 		{
-            name: 'Star Sports 1',
+            name: 'Fox Cricket',
             sources: [
-                {src: 'https://mominvaithanks.xyz/mominRocks/xtream.php?id=109987', type: 'application/x-mpegURL'},
+                {src: 'https://mominvaithanks.xyz/mominRocks/moto.php?id=4164', type: 'application/x-mpegURL'},
             ]
         },
 		{
             name: 'Willow HD',
             sources: [
-                {src: 'http://xtv.ooo:8080/global/global/167583', type: 'application/x-mpegURL'},
+                {src: 'https://mominvaithanks.xyz/mominRocks/moto.php?id=1411', type: 'application/x-mpegURL'},
             ]
         },
 		{
