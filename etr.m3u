@@ -8,7 +8,7 @@ https://drive.usercontent.google.com/u/0/uc?id=14jrlY8FXZXrHR7PXza-MRKqHLsB8JIOW
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="LIVE EVENT",G TV 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="LIVE EVENT",T20 (Nagrik)
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=4O-XEA7mTfKf9FHi70cflQ&expires=1717825533&user=ff39d05fef0749028389f28943b73363
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="LIVE EVENT",T20 English 
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/TW6dtcy/IMG-20240320-113038.jpg" group-title="LIVE EVENT", T Sports
