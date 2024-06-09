@@ -3,9 +3,9 @@ $(document).ready(function () {
 player.playlist([
         
 { name: 'T 20',           autoplay: true, sources: [ {src: 'https://hdstreamz.vip/sports/mu1.php?e=.m3u8', type: 'application/x-mpegURL'},]},
-{ name: 'Nagorik',       autoplay: true, sources: [ {src: 'http://113.212.111.246:8080/hls/col12.m3u8', type: 'application/x-mpegURL'}, ] },
-{ name: 'Peace Tv',     autoplay: true, sources: [ {src: 'https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8', type: 'application/x-mpegURL'}, ] },
-{ name: 'Star sports 1', autoplay: true, sources: [ {src: 'http://172.17.50.112/live/fifa2022/index.m3u8', type: 'application/x-mpegURL'}, ] },
+{ name: 'NAGORIK',       autoplay: true, sources: [ {src: 'http://113.212.111.246:8080/hls/col12.m3u8', type: 'application/x-mpegURL'}, ] },
+{ name: 'PEACE TV',     autoplay: true, sources: [ {src: 'https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8', type: 'application/x-mpegURL'}, ] },
+{ name: 'SOMOY', autoplay: true, sources: [ {src: 'http://172.17.50.112/live/fifa2022/index.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'Star sports 1', autoplay: true, sources: [ {src: 'http://172.17.50.112/live/antbd1001/index.m3u8', type: 'application/x-mpegURL'},] },
 { name: 'TSports',       autoplay: true, sources: [ {src: 'http://172.17.50.112/live/antbd1002/index.m3u8', type: 'application/x-mpegURL'}, ] },	
 { name: 'T-Sports',      autoplay: true, sources: [ {src: 'https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/m3u8', type: 'application/x-mpegURL'}, ] },
