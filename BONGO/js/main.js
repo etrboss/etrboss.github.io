@@ -2,8 +2,8 @@ $(document).ready(function () {
     var player = videojs('video');
 player.playlist([
         
-{ name: 'Toffee',           autoplay: true, sources: [ {src: 'https://hdstreamz.vip/sports/mu1.php?e=.m3u8', type: 'application/x-mpegURL'},]},
-{ name: 'TSports',       autoplay: true, sources: [ {src: 'http://11plus.live/live/tsports/index.m3u8', type: 'application/x-mpegURL'}, ] },
+{ name: 'T 20',           autoplay: true, sources: [ {src: 'https://hdstreamz.vip/sports/mu1.php?e=.m3u8', type: 'application/x-mpegURL'},]},
+{ name: 'Nagorik',       autoplay: true, sources: [ {src: 'http://113.212.111.246:8080/hls/col12.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'Star Sports 1', autoplay: true, sources: [ {src: 'http://11plus.live/live/stersports1hd/index.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'Star sports 1', autoplay: true, sources: [ {src: 'http://172.17.50.112/live/fifa2022/index.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'Star sports 1', autoplay: true, sources: [ {src: 'http://172.17.50.112/live/antbd1001/index.m3u8', type: 'application/x-mpegURL'},] },
