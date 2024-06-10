@@ -14,6 +14,12 @@ player.playlist([
 { name: 'News 24',           autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'Channel 24',       autoplay: true, sources: [ {src: 'https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8', type: 'application/x-mpegURL'}, ] },
     { name: 'ATN Bangla',       autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
+       { name: 'Me Tv',       autoplay: true, sources: [ {src: 'https://iptvbd.live/metv1080/1080.m3u8', type: 'application/x-mpegURL'}, ] },
+       { name: 'ATN Music',       autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
+       { name: 'Sangeet Bangla',       autoplay: true, sources: [ {src: 'https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8', type: 'application/x-mpegURL'}, ] },
+       { name: 'Music India',       autoplay: true, sources: [ {src: 'https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8', type: 'application/x-mpegURL'}, ] },
+       { name: '9xm',       autoplay: true, sources: [ {src: 'https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8', type: 'application/x-mpegURL'}, ] },
+       { name: 'ATN Bangla',       autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'DBC News',  autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
 
 ]);
