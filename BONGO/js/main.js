@@ -11,9 +11,9 @@ player.playlist([
 { name: 'Movie bangla',   autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'Deshi Tv',           autoplay: true, sources: [ {src: 'https://deshitv.deshitv24.net/live/myStream/playlist.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'Colors Bangla',           autoplay: true, sources: [ {src: 'https://sonyliv.arcreation.xyz/live-tv/base.php?id=11946', type: 'application/x-mpegURL'}, ] },
-{ name: 'GTV',           autoplay: true, sources: [ {src: 'http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8', type: 'application/x-mpegURL'}, ] },
-{ name: 'TSports',       autoplay: true, sources: [ {src: 'http://test-otv1.ftpbd.net/streams/115/index.m3u8', type: 'application/x-mpegURL'}, ] },
-{ name: 'Star sports 1',  autoplay: true, sources: [ {src: 'http://test-otv1.ftpbd.net/streams/110/index.m3u8', type: 'application/x-mpegURL'}, ] },
+{ name: 'News 24',           autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
+{ name: 'Channel 24',       autoplay: true, sources: [ {src: 'https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8', type: 'application/x-mpegURL'}, ] },
+{ name: 'DBC News',  autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
 
 ]);
 
