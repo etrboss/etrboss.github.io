@@ -19,7 +19,7 @@ player.playlist([
        { name: 'Sangeet Bangla',       autoplay: true, sources: [ {src: 'https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8', type: 'application/x-mpegURL'}, ] },
        { name: 'Music India',       autoplay: true, sources: [ {src: 'https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8', type: 'application/x-mpegURL'}, ] },
        { name: '9xm',       autoplay: true, sources: [ {src: 'https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8', type: 'application/x-mpegURL'}, ] },
-       { name: 'ATN Bangla',       autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
+       { name: 'Zoom',       autoplay: true, sources: [ {src: 'https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'DBC News',  autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
 
 ]);
