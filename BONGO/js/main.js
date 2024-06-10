@@ -20,6 +20,12 @@ player.playlist([
        { name: 'Music India',       autoplay: true, sources: [ {src: 'https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8', type: 'application/x-mpegURL'}, ] },
        { name: '9xm',       autoplay: true, sources: [ {src: 'https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8', type: 'application/x-mpegURL'}, ] },
        { name: 'Zoom',       autoplay: true, sources: [ {src: 'https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8', type: 'application/x-mpegURL'}, ] },
+    { name: 'Kids Creation',       autoplay: true, sources: [ {src: 'https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8', type: 'application/x-mpegURL'}, ] },
+    { name: 'MBC 3',       autoplay: true, sources: [ {src: 'https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8', type: 'application/x-mpegURL'}, ] },
+    { name: 'Gubbare',       autoplay: true, sources: [ {src: 'https://epiconvh.s.llnwi.net/gubbare/master.m3u8', type: 'application/x-mpegURL'}, ] },
+        { name: 'Discovery Bangla',       autoplay: true, sources: [ {src: 'https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8', type: 'application/x-mpegURL'}, ] },
+    { name: 'Wild Earth',       autoplay: true, sources: [ {src: 'https://wildearth-roku.amagi.tv/masterR720P.m3u8', type: 'application/x-mpegURL'}, ] },
+    { name: 'Animal Planet',       autoplay: true, sources: [ {src: 'https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'DBC News',  autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8', type: 'application/x-mpegURL'}, ] },
 
 ]);
