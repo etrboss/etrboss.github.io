@@ -6,7 +6,7 @@ player.playlist([
 { name: 'NAGORIK',       autoplay: true, sources: [ {src: 'https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=laWE_33z1mB0tR6KrV5-Dw&expires=1718151505&user=ff39d05fef0749028389f28943b73363', type: 'application/x-mpegURL'}, ] },
 { name: 'PEACE TV',     autoplay: true, sources: [ {src: 'https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'T SPORTS',    autoplay: true, sources: [ {src: 'https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=Vk4haiyg0vIGWwd9zV3U5A&expires=1718151173&user=ff39d05fef0749028389f28943b73363', type: 'application/x-mpegURL'}, ] },
-{ name: 'Star sports 1', autoplay: true, sources: [ {src: 'http://172.17.50.112/live/antbd1001/index.m3u8', type: 'application/x-mpegURL'},] },
+{ name: 'Jamuna', autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8', type: 'application/x-mpegURL'},] },
 { name: 'TSports',       autoplay: true, sources: [ {src: 'http://172.17.50.112/live/antbd1002/index.m3u8', type: 'application/x-mpegURL'}, ] },	
 { name: 'T-Sports',      autoplay: true, sources: [ {src: 'https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'GTV',           autoplay: true, sources: [ {src: 'https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8', type: 'application/x-mpegURL'}, ] },
