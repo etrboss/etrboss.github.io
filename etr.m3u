@@ -69,7 +69,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 group-title="INDIAN BANGLA"tvg-logo="https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",Sun Bangla Cinema
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/FXC13pc/IMG-20240320-113532.png" ,Colors Bangla Cinema
-http://starshare.live:8080/live/Sylvia/Sylvia/271038.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-39 tvg-logo="https://i.ibb.co/stDr8v4/image-search-1713979052749.png"group-title="INDIAN BANGLA",Khushboo Bangla
@@ -77,9 +76,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/
 #EXTINF:-1 group-title="INDIAN BANGLA"tvg-logo="https://i.ibb.co/9cfcKcP/IMG-20240126-113721.png",Jalsha Movies 
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmKbpg1/IMG-20240126-103114.png" group-title="INDIAN BANGLA",Sony AATH
-http://xtv.ooo:8080/live/RiyazMPT/433833/245989.ts
-http://starshare.live:8080/live/Sylvia/Sylvia/4083.m3u8
-http://xtv.ooo:8080/live/919990697539/9535126056/245989.ts
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 group-title="INDIAN BANGLA"tvg-logo="https://i.ibb.co/5xQRLnD/IMG-20240126-113422.jpg",Zee Bangla Cinema
 http://176.119.29.52/live/00:1A:79:00:02:27/SN_1697176356/119.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/z8cPBwx/IMG-20240330-183245.jpg",Sananda Tv
