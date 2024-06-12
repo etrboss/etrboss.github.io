@@ -55,23 +55,17 @@ https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png"group-title="INDIAN BANGLA",Star Jalsha
-http://starshare.live:8080/live/Sylvia/Sylvia/98883.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png"group-title="INDIAN BANGLA",Star Jalsha HD
-http://xtv.ooo:8080/live/shahz18/18usman/245898.ts
-http://xtv.ooo:8080/Sehrish/12345/245898
+http://176.119.29.52/live/00:1A:79:00:02:27/SN_1697176356/116.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png"group-title="INDIAN BANGLA",Zee Bangla HD
-http://xtv.ooo:8080/Sehrish/12345/245893
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m3u8
-http://xtv.ooo:8080/live/shahz18/18usman/245893.ts
+https://tv5.hoichoi24.com/1405/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TPKM7Mg/IMG-20240126-113602.png" ,Colors Bangla HD
-https://sonyliv.arcreation.xyz/live-tv/base.php?id=11946
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/index.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=92&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://tv.cloudcdn.me/live.ts?channelId=92&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNTwtbc/IMG-20240126-092809.png"group-title="INDIAN BANGLA",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA"tvg-logo="https://i.ibb.co/KbB098T/IMG-20240126-112549.png",Sun Bangla
-http://xtv.ooo:8080/Sehrish/12345/245906
+
 #EXTINF:-1 group-title="INDIAN BANGLA"tvg-logo="https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",Sun Bangla Cinema
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/FXC13pc/IMG-20240320-113532.png" ,Colors Bangla Cinema
@@ -87,7 +81,7 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/245989.ts
 http://starshare.live:8080/live/Sylvia/Sylvia/4083.m3u8
 http://xtv.ooo:8080/live/919990697539/9535126056/245989.ts
 #EXTINF:-1 group-title="INDIAN BANGLA"tvg-logo="https://i.ibb.co/5xQRLnD/IMG-20240126-113422.jpg",Zee Bangla Cinema
-http://xtv.ooo:8080/Sehrish/12345/245897
+http://176.119.29.52/live/00:1A:79:00:02:27/SN_1697176356/119.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/z8cPBwx/IMG-20240330-183245.jpg",Sananda Tv
 
 #EXTINF:-1 group-title="INDIAN BANGLA"tvg-logo="https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",Sun Bangla Cinema
