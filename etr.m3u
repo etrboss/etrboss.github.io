@@ -6,7 +6,6 @@
 https://drive.usercontent.google.com/u/0/uc?id=14jrlY8FXZXrHR7PXza-MRKqHLsB8JIOW&export=download
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",G TV 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",T20 ( Bangla )
 http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb63fW_8gtcAEXnxlUNBP1s/ts
@@ -16,6 +15,17 @@ http://113.212.111.246:8080/hls/col12.m3u8
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",T20 ( Toffee )
 https://hdstreamz.vip/sports/mu1.php?e=.m3u8
+
+#EXTINF: -1 tvg-name="Copa America live 1" tvg-logo="http://lifetvbd.xyz:8080/images/1fcddf1648bc968dc9b458f11c8b91a9.png" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁", Copa America live 1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJboIPfpg18oBXtB96SKIb_0/ts
+#EXTINF: -1 tvg-name="Copa America live 2" tvg-logo="http://lifetvbd.xyz:8080/images/1fcddf1648bc968dc9b458f11c8b91a9.png" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁", Copa America live 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWM85LgSPnctnXuKLgDNhPk/ts
+#EXTINF: -1 tvg-name="UEFA EURO 2024 Live 1" tvg-logo="http://lifetvbd.xyz:8080/images/4bd532903cd187b27e5779503b7ebde1.png" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁", UEFA EURO 2024 Live 1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWs8eZYJjVSMgmGUxyK1GxA/ts
+#EXTINF: -1 tvg-name="UEFA EURO 2024 Live 2" tvg-logo="http://lifetvbd.xyz:8080/images/4bd532903cd187b27e5779503b7ebde1.png" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁", UEFA EURO 2024 Live 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeXT5f5Qj3hmgtmd3KOhyE8/ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",G TV 
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/TW6dtcy/IMG-20240320-113038.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁", T Sports
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁", T Sports HD 
@@ -422,11 +432,11 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sports18_1_SD_voot_MOB/Fallback/in
 #EXTINF:-1 group-title="𝗦𝗽𝗼𝗿𝘁𝘀" tvg-logo="https://i.imgur.com/5YxbUFg.png",Sky Open
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7y4JMGw/IMG-20240324-053136.jpg" group-title="𝗦𝗽𝗼𝗿𝘁𝘀", Star Sports 1
-http://starshare.live:8080/live/T20C227070225533/202210886677/124281.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT_YwovXWh5oO4f_xTdS7yk/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x13xYWp/IMG-20240324-053232.jpg" group-title="𝗦𝗽𝗼𝗿𝘁𝘀", Star Sports 2
-http://opplex.tv:8080/live/2312211/1616616/167576.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcf3uIj6iv9kDX8QQsfif2Q/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HYCS8LF/IMG-20240324-053320.jpg" group-title="𝗦𝗽𝗼𝗿𝘁𝘀", Star Sports 3
-http://opplex.tv:8080/live/2312211/1616616/167577.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfym4GWRiYw-r-p3Irb0xgw/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TrPDk4V/IMG-20240129-072058.png" group-title="𝗦𝗽𝗼𝗿𝘁𝘀", Star Sports SL 1
 http://starshare.live:8080/live/Sylvia/Sylvia/98867.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D9c4RL6/IMG-20240129-072152.png" group-title="𝗦𝗽𝗼𝗿𝘁𝘀", Star Sports SL 2
