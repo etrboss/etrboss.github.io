@@ -6,17 +6,15 @@
 https://drive.usercontent.google.com/u/0/uc?id=14jrlY8FXZXrHR7PXza-MRKqHLsB8JIOW&export=download
 
 
- 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",𝐓𝟐𝟎 ( 𝐁𝐚𝐧𝐠𝐥𝐚 )
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb63fW_8gtcAEXnxlUNBP1s/ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",𝐓𝟐𝟎 ( 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐇𝐃 )
-http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",𝑻20 (𝑵𝒂𝒈𝒐𝒓𝒊𝒌)
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",𝑻20 ( 𝑻𝒐𝒇𝒇𝒆𝒆 )
-https://hdstreamz.vip/sports/mu1.php?e=.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",ARG 🆚 GUA
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",𝙏20 ( 𝘽𝙖𝙣𝙜𝙡𝙖 )
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb63fW_8gtcAEXnxlUNBP1s/ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",𝙏20 ( 𝙀𝙣𝙜𝙡𝙞𝙨𝙝 𝙃𝘿 )
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",𝙏20 (𝙉𝙖𝙜𝙤𝙧𝙞𝙠)
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",𝙏20 ( 𝙏𝙤𝙛𝙛𝙚𝙚 )
+https://hdstreamz.vip/sports/mu1.php?e=.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",𝙂 𝙏𝙑 
@@ -49,15 +47,15 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",𝘿𝙀𝙀𝙉 𝙏𝙑
 https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", IQRA BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", 𝙄𝙌𝙍𝘼 𝘽𝘼𝙉𝙂𝙇𝘼
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",ATN ISLAMIC TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",𝘼𝙏𝙉 𝙄𝙎𝙇𝘼𝙈𝙄𝘾 𝙏𝙑
 https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",𝙈𝘼𝙆𝙆𝘼𝙃 𝙏𝙫
 https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.ibb.co/YdZR2jZ/IMG-20240129-062846.jpg",ISLAM Tv
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.ibb.co/YdZR2jZ/IMG-20240129-062846.jpg",𝙄𝙎𝙇𝘼𝙈 𝙏𝙫
 https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",𝘼𝙡 𝙎𝙪𝙣𝙣𝙖𝙝 𝘼𝙡 𝙉𝙖𝙗𝙖𝙬𝙞𝙮𝙖𝙝 𝙏𝙑
 https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
 
 
