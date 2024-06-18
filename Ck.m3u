@@ -174,3 +174,52 @@ https://shounwifi.net/ott-player/tofee-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_182385001717400375.png" group-title="Toffee | Sports",2. Toffee 
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
 
+
+#EXTINF:-1 ,Filamchi
+https://epiconvh.s.llnwi.net/filamchi/master.m3u8
+#EXTINF:-1 ,Dabang
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/40bac9c0-3221-4268-a381-b76510dece6b/0.m3u8
+#EXTINF:-1 ,Bhojopuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 ,Bhojopori Music
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
+#EXTINF:-1 ,Saga Music Haryanavi 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Saga Music 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Zee Cinema HD 
+https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=12&partner=distro
+#EXTINF:-1 ,Zee Bollyworld 
+https://stream.ads.ottera.tv/cl/240618cpoldo4f4i196r9lklig/1280x720_2300000_0_f.m3u8?i=475_6640
+#EXTINF:-1 ,South Station Channel 
+https://i.mjh.nz/SamsungTVPlus/INBD4800001IR.m3u8
+#EXTINF:-1 ,Minimax Cartoon Channel 
+https://livetranscode.com/Minimax/index.m3u8
+#EXTINF:-1 ,Chumbak TV 
+https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8?hdnts=st=1718704192~exp=1718714992~acl=*~data=testdata~hmac=5470d33e2138e77a4c04e97ae625784d63620e31fb5f72018ea161a4ea2a0ca2
+#EXTINF:-1 ,Zee Aflam 
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 ,Yrf Music Multi Quality 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 ,CLASSIC Bollywood 
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF:-1 ,B4U movies 
+https://cdn2.pishow.tv/live/156/master.m3u8
+#EXTINF:-1 ,B4U kadak 
+https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
+#EXTINF:-1 ,Bollywood prime 
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 ,Shemaroo Bollywood 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/9463dacb-0565-40bb-abc6-4af8fa7eaa68/0.m3u8
+#EXTINF:-1 ,Maha movie 
+http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
+#EXTINF:-1 ,The movie club 
+https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+#EXTINF:-1 ,Hollywood desi 
+https://i.mjh.nz/SamsungTVPlus/INBC43000071R.m3u8
+#EXTINF:-1 ,Star gold 
+http://103.131.214.129:9985/stream/channelid/1812347971?ticket=45AEF9F0278574E7264A94BB6C1F321B44190C01&profile=pass
+#EXTINF:-1 ,Sony Max 
+http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:-1 ,Sony Max 2 
+http://103.131.214.129:9985/stream/channelid/925225447?ticket=9A1B6475DD43DE73EF66C267C997BBE9542DF908&profile=pass
