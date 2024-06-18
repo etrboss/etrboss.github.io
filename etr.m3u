@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vLgHnd2/20240527-163132.jpg"group-title="𝗕𝗼𝗻𝗴𝗼 𝗙𝗹𝗶𝘅",𝗕𝗼𝗻𝗴𝗼 𝗙𝗹𝗶𝘅
@@ -213,20 +214,32 @@ https://epiconvh.s.llnwi.net/nazara/master.m3u8
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jg",𝙀𝙥𝙞𝙘
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jg",𝙎𝙝𝙚𝙢𝙖𝙧𝙤𝙤 𝘽𝙤𝙡𝙡𝙮𝙬𝙤𝙤𝙙
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/9463dacb-0565-40bb-abc6-4af8fa7eaa68/0.m3u8
+#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jg",𝙎𝙝𝙚𝙢𝙖𝙧𝙤𝙤 𝘽𝙤𝙡𝙡𝙮𝙬𝙤𝙤𝙙
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="",Bollywood prime 
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="",South Station Channel 
+https://i.mjh.nz/SamsungTVPlus/INBD4800001IR.m3u8
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jp",𝘽4𝙐
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jpg",𝙈𝙤𝙫𝙞𝙚 𝘾𝙡𝙪𝙗
+#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="",𝙈𝙤𝙫𝙞𝙚 𝘾𝙡𝙪𝙗
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MByQRjy/IMG-20240320-114908.jpg" group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶",𝙎𝙏𝘼𝙍 𝙋𝙇𝙐𝙎 𝙃𝘿 
 
-#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG240129-064856.jpg",𝙕𝙚𝙚 𝙒𝙤𝙧𝙡𝙙
+#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="",𝙕𝙚𝙚 𝙒𝙤𝙧𝙡𝙙
 https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/Zzj7q0D/IMG-20240126-115732.png",𝙕𝙚𝙚 𝙏𝙑
-https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=zee_tv 
+
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/193nw47/IMG-20240126-115928.jpg",𝙕𝙚𝙚 𝘾𝙞𝙣𝙚𝙢𝙖 𝙃𝘿 
-https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=zee_cinema_hd
+https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=12&partner=distro
+#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="",Zee Aflam 
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="",Zee Bollyworld 
+https://stream.ads.ottera.tv/cl/240618cpoldo4f4i196r9lklig/1280x720_2300000_0_f.m3u8?i=475_6640
+#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="", Zee One
+https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg",𝙁𝙞𝙡𝙖𝙢𝙘𝙝𝙞
 https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/1bKXj1x/IMG-20240126-093309.png",𝙎𝙤𝙣𝙮 𝙎𝙀𝙏 
@@ -235,7 +248,8 @@ http://170.254.18.107/SONY/index.m3u8
 http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/BZ5vMqQ/IMG-20240129-065245.jpg",𝙎𝙤𝙣𝙮 𝙆𝙖𝙡
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
-
+#EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="",Bhojopuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/BVJW9Wh/IMG-20240126-121242.jpg",𝘽𝙤𝙡𝙡𝙮𝙬𝙤𝙤𝙙 𝘾𝙡𝙖𝙨𝙨𝙞𝙘
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/fxSX6yv/IMG-20240126-121202.jpg",𝘽𝙤𝙡𝙡𝙮𝙬𝙤𝙤𝙙 𝙃𝘿
@@ -243,6 +257,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/y4byV4b/IMG-20240418-130458.jpg",𝙐𝙏𝙑 𝘾𝙞𝙣𝙚𝙢𝙖 𝙃𝘿
 
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.ibb.co/Yjh6pyC/IMG-20240418-130220.jpg",𝙐𝙏𝙑 𝙈𝙤𝙫𝙞𝙚𝙨 𝙃𝘿
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9qySjS/IMG-20240126-102541.png"group-title="𝗘𝗻𝗴𝗹𝗶𝘀𝗵",𝘽𝙧𝙖𝙩 𝙏𝙑 
 https://brat-rakuten.amagi.tv/playlist.m3u8
