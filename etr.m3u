@@ -470,3 +470,196 @@ http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9hq0zm1/IMG-20240212-220638.png" group-title="𝗙𝗺 𝗥𝗮𝗱𝗶𝗼",𝙅𝙖𝙜𝙤 𝙁𝙈 (94.4)
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png",ATN Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/Fs4LFBd9/HX8SSDA.png",Banglavision HD [Youtube]
+https://ythls.armelin.one/channel/UCAIEufoszs1J38-pKECORRg.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/Ls4n3800/MmhxR5E.png",Channel 24 [Youtube]
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/9MszC5PV/Channel-I.jpg",Channel I [Youtube]
+https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/43dZL7vq/djAX8Rc.png",DBC News [Youtube]
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/pX8gbwgq/Desh-TV.jpg",Desh TV [Youtube]
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png",Ekattor TV [Youtube]
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png",Ekhon TV [Youtube]
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png",Independent TV [Youtube]
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/W1Gyczj1/ds3aThu_2.jpg",Jamuna TV [Youtube]
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/W1Gyczj1/ds3aThu_2.jpg",Jamuna TV [Youtube]
+https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/7Y40dwCw/mn88b34.png",News 24 [Youtube]
+https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/KYmZThYy/Nexus-Television-Logo.jpg",Nexus TV [Youtube]
+https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png",NTV [Youtube]
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png",RTV HD [Youtube]
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/PfS61dd3/fraEjzm.png",SATV [Youtube]
+https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg",Somoy TV [Youtube]
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda [Youtube]
+https://ythls.armelin.one/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/6p89RLJZ/Calcutta-News.jpg",Calcutta News [Youtube]
+https://ythls.armelin.one/channel/UCJ3I6MHOz5exARlTW_meOGQ.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/3r4fmNPK/News18-Bangla-logo.jpg",News18 Bangla [Youtube]
+https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/fbkgtKmJ/image_5.jpg",Republic TV Bangla [Youtube]
+https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MHTqjvNh/image.jpg",TV9 Bangla [Youtube]
+https://ythls.armelin.one/channel/UCHCR4UFsGwd_VcDa0-a4haw.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QNJ4qT3c/image.png",Zee 24 Ghanta [Youtube]
+https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/yx8VBs3C/download.jpg",Aaj Tak [Youtube]
+https://ythls.armelin.one/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/6QyGxBQS/ABPNews.jpg",ABP News [Youtube]
+https://ythls.armelin.one/channel/UCRWFSbif-RFENbBrSiez1DA.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/0jvVsrpQ/image.jpg",CNBC-TV18 [Youtube]
+https://ythls.armelin.one/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/9FLSQjVV/CNN-News18.png",CNN-News18 [Youtube]
+https://ythls.armelin.one/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/52YVkkpt/image.jpg",DD India [Youtube]
+https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/15sbkrHW/DD-News.jpg",DD News [Youtube]
+https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/C1c7X8Gs/image.jpg",ET NOW [Youtube]
+https://ythls.armelin.one/channel/UCI_mwTKUhicNzFrhm33MzBQ.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/RVdjyJqp/image.jpg",ET Now Swadesh [Youtube]
+https://ythls.armelin.one/channel/UCD3CdwT8lTCe5ZGHbUBxmWA.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/sDHVCShj/download.png",India Today [Youtube]
+https://ythls.armelin.one/channel/UCYPvAwZP8pZhSMW8qs7cVCw.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/Rq5nWbSV/image.jpg",India TV [Youtube]
+https://ythls.armelin.one/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/JhDmF73v/image.jpg",NDTV [Youtube]
+https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/Dy6FhNS3/NDTVIndia380-Logo.jpg",NDTV India [Youtube]
+https://ythls.armelin.one/channel/UC9CYT9gSNLevX5ey2_6CK0Q.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/2ysBqjdZ/image.jpg",NDTV Profit [Youtube]
+https://ythls.armelin.one/channel/UC3uJIdRFTGgLWrUziaHbzrg.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/1zWHk1NR/News-18-India.jpg",News18 India [Youtube]
+https://ythls.armelin.one/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/3RL6mNwW/image.jpg",News24 [Youtube]
+https://ythls.armelin.one/channel/UCuzS3rPQAYqHcLWqOFuY0pw.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/3RL6mNwW/image.jpg",News24 [Youtube]
+https://ythls.armelin.one/channel/UCuzS3rPQAYqHcLWqOFuY0pw.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/dVcyTtCd/republic-bharat-logo-e1613310592185_2.jpg",Republic Bharat [Youtube]
+https://ythls.armelin.one/channel/UC7wXt18f2iA3EDXeqAVuKng.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/nrFWWXf0/Sansad-TV.jpg",Sansad TV [Youtube]
+https://ythls.armelin.one/channel/UCISgnSNwqQ2i8lhCun3KtQg.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/50Wr4fvX/image.jpg",Times Now [Youtube]
+https://ythls.armelin.one/channel/UC6RJ7-PaXg6TIH2BzZfTV7w.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/3w3mzfL6/Times-Now-Navbharat.png",Times Now Navbharat [Youtube]
+https://ythls.armelin.one/channel/UCMk9Tdc-d1BIcAFaSppiVkw.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/g0MzkHhS/TV9-Bharatvarsh.jpg",TV9 Bharatvarsh [Youtube]
+https://ythls.armelin.one/channel/UCOutOIcn_oho8pyVN3Ng-Pg.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg",WION [Youtube]
+https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/SNRxnvpJ/image-1.jpg",Zee News [Youtube]
+https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
+
+#EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/9F108dSN/image.jpg",24 News HD [Youtube]
+https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8
+
+#EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/0j9YmkFc/image_18.jpg",Ary News [Youtube]
+https://ythls.armelin.one/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8
+
+#EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/FFjt8mG6/image.jpg",City 42 [Youtube]
+https://ythls.armelin.one/channel/UCdTup4kK7Ze08KYp7ReiuMw.m3u8
+#EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/kXP1nQ2X/image.jpg",DawnNews [Youtube]
+https://ythls.armelin.one/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
+
+#EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/2SRC10NX/geo-news-pakistan.png",Geo News [Youtube]
+https://ythls.armelin.one/channel/UC_vt34wimdCzdkrzVejwX9g.m3u8
+
+#EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/V6f8MnNj/image.jpg",GNN [Youtube]
+https://ythls.armelin.one/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8
+
+#EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/J7H7F0n8/image.jpg",News18 Urdu [Youtube]
+https://ythls.armelin.one/channel/UC9IQhNgS43lmUdU-KdGyb0A.m3u8
+#EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/vm3bM3MT/image_80.jpg",PTV Home [Youtube]
+https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/SR3wwdhM/ABC-News.jpg",ABC News [Youtube]
+https://ythls.armelin.one/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/TPkKrhy0/Al-Jazeera.png",Al Jazeera HD [Youtube]
+https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/sxJs6Htm/Bloomberg-TV.png",Bloomberg Television [Youtube]
+https://ythls.armelin.one/channel/UCIALMKvObZNtJ6AmdCLP7Lg.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/WpdmfGg4/image.jpg",CBN News [Youtube]
+https://ythls.armelin.one/channel/UCYI_ychRnL7sJrG6PUSBpQA.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/76n65v3Z/image.jpg",Channels Television [Youtube]
+https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/8P9Jpnnq/image.jpg",CNA [Youtube]
+https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/JhMgPGJJ/9XvvPo9.png",DW News [Youtube]
+https://ythls.armelin.one/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/XqJMKZmh/image.jpg",euronews [Youtube]
+https://ythls.armelin.one/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/MZg3cVpG/1200px-FRANCE-24-logo-svg.png",France 24 [Youtube]
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/zGtNyzHB/image.jpg",KTN News Kenya [Youtube]
+https://ythls.armelin.one/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/43GPsWqV/fnxMNd7.png",Newsmax TV [Youtube]
+https://ythls.armelin.one/channel/UCx6h-dWzJ5NpAlja1YsApdg.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/pdtJxJCw/nw-webapp-1500x1500.png",NHK World [Youtube]
+https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/7LmGc3WM/Republic-TV-logo.jpg",Republic World [Youtube]
+https://ythls.armelin.one/channel/UCwqusr8YDwM-3mEYTDeJHzw.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/q7RZWy60/Sky-News.jpg",Sky News [Youtube]
+https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/q7tpzbf3/image.jpg",TRT World [Youtube]
+https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
