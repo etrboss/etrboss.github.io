@@ -663,3 +663,26 @@ https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/q7tpzbf3/image.jpg",TRT World [Youtube]
 https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
+
+
+
+#EXTINF:-1 group-title="News"tvg-logo="https://i.ibb.co/WFMm85Z/IMG-20240212-075758.png",BBC World News
+
+#EXTINF:-1 group-title="News"tvg-logo="https://i.ibb.co/mJF7tMs/IMG-20240126-084918.png",France 24
+
+
+#EXTINF:-1 group-title="News"tvg-logo="https://i.ibb.co/ZMBctC4/IMG-20240126-084842.png",DW NEWS
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="News"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png", AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:-1 group-title="News"tvg-logo="https://i.ibb.co/J5q4LbB/IMG-20240126-084644.png",ABP Ananda
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/5x280KL/IMG-20240126-110917.jpg",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/hMfbJCZ/IMG-20240126-084725.png" group-title="News", CALCUTTA NEWS
+https://calcutta-news.mssarena71.workers.dev/stream/calcuttanews/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/mtpwqxG/IMG-20240126-084807.jpg" group-title="News", ZEE 24 GHANTA
+https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
+
+
