@@ -1,7 +1,9 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vLgHnd2/20240527-163132.jpg"group-title="𝗕𝗼𝗻𝗴𝗼 𝗙𝗹𝗶𝘅",𝗕𝗼𝗻𝗴𝗼 𝗙𝗹𝗶𝘅
 https://drive.usercontent.google.com/u/0/uc?id=1PVSrEaR9D-0_kQkA9m4NVx05zikFkQR7&export=download
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hv1Hpp94/IMG-20240529-185013-854.jpg" group-title="KOLKATA",Zee 24 Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
@@ -317,5 +319,26 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+
+
+Gtv
+https://evbr.short.gy/BDStreamHub.Gazitv.m3u
+A Sports 
+https://nowsportstv.com/crichd/stream.php?id=asportshd&e=.m3u8
+sky Cricket 
+https://nowsportstv.com/crichd/stream.php?id=skyscric&e.m3u8
+
+williow Cricket 
+https://nowsportstv.com/crichd/stream.php?id=willowusa&e=.m3u8
+p Tv 
+https://nowsportstv.com/crichd/stream.php?id=ptvpk&e.m3u8
+Fox Cricket 
+http://opplex.tv:8080/live/nazrul763/77547647/167593.m3u8
+
+Gold Mine
+https://evbr.short.gy/BDStreamHub/Goldmines.ts
+
+Gold Mine Bollywood
+https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 
 
