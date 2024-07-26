@@ -2,8 +2,8 @@ $(document).ready(function () {
     var player = videojs('video');
 player.playlist([
         
-{ name: 'T Sports',           autoplay: true, sources: [ {src: 'https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=JKB8RE7vssXKQmiXRHl_vg&expires=1720839695&user=d477246e9e724f81a011b847457e71c4', type: 'application/x-mpegURL'},]},
-{ name: 'NAGORIK',       autoplay: true, sources: [ {src: 'https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=FsuV49SoghR-tUzFi8VQRA&expires=1720839292&user=d477246e9e724f81a011b847457e71c4', type: 'application/x-mpegURL'}, ] },
+{ name: 'R Tv',           autoplay: true, sources: [ {src: 'https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=IwyQBPTwpsdimM_TCr7THg&expires=1722189065&user=d477246e9e724f81a011b847457e71c4', type: 'application/x-mpegURL'},]},
+{ name: 'SA Tv',       autoplay: true, sources: [ {src: 'https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=Aml-_0C1SYxiLjQXQy8PPA&expires=1722189043&user=d477246e9e724f81a011b847457e71c4', type: 'application/x-mpegURL'}, ] },
 { name: 'PEACE TV',      autoplay: true, sources: [ {src: 'https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8', type: 'application/x-mpegURL'}, ] },
 { name: 'T SPORTS',      autoplay: true, sources: [ {src: 'https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=Vk4haiyg0vIGWwd9zV3U5A&expires=1718151173&user=ff39d05fef0749028389f28943b73363', type: 'application/x-mpegURL'}, ] },
 { name: 'Jamuna',        autoplay: true, sources: [ {src: 'https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8', type: 'application/x-mpegURL'},] },
