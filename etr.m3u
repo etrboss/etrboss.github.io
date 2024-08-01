@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif"group-title="𝑬𝒂𝒎𝒊𝒏 𝑳𝒊𝒗𝒆 𝑻𝒗",𝐄𝐚𝐦𝐢𝐧 𝐕𝐚𝐢
 https://archive.org/serve/5-6147754047907565850/5_6147754047907565850.mp4
 
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/RyDB3jW/IMG-20240706-071814.jpg" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",Major Cricket Leage
 https://nowsportstv.com/crichd/stream.php?id=asportshd&e=.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/3BkWwSr/LPL-2023-Logo.png" group-title="𝗟𝗶𝘃𝗲 𝗘𝘃𝗲𝗻𝘁",Lanka Premium Leage
@@ -117,9 +118,13 @@ https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Star%20Jalsha.png"group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗕𝗮𝗻𝗴𝗹𝗮",𝙎𝙩𝙖𝙧 𝙅𝙖𝙡𝙨𝙝𝙖
+http://103.151.60.174/manikvai@hoichoi24.com
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Star%20Jalsha.png"group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗕𝗮𝗻𝗴𝗹𝗮",𝙎𝙩𝙖𝙧 𝙅𝙖𝙡𝙨𝙝𝙖
 http://humsab.xyz/IN_STARJ/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Star%20Jalsha%20HD.png"group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗕𝗮𝗻𝗴𝗹𝗮",𝙎𝙩𝙖𝙧 𝙅𝙖𝙡𝙨𝙝𝙖 𝙃𝘿
 http://humsab.xyz/IN_JALSHAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Zee%20Bangla%20HD.png"group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗕𝗮𝗻𝗴𝗹𝗮",𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 
+http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Zee%20Bangla%20HD.png"group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗕𝗮𝗻𝗴𝗹𝗮",𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 
 http://humsab.xyz/IN_ZEBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Zee%20Bangla%20HD.png"group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗕𝗮𝗻𝗴𝗹𝗮",𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 𝙃𝘿
@@ -414,7 +419,7 @@ https://evbr.short.gy/BDStreamHub.Gazitv.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="𝗦𝗽𝗼𝗿𝘁𝘀", 𝙏 𝙎𝙥𝙤𝙧𝙩𝙨 
 https://humsab.xyz/GBanTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TW6dtcy/IMG-20240320-113038.jpg"group-title="𝗦𝗽𝗼𝗿𝘁𝘀", 𝙏 𝙎𝙥𝙤𝙧𝙩𝙨 
-https://cdn.querysports.com/hls/copa_1080.m3u8
+http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="𝗦𝗽𝗼𝗿𝘁𝘀", 𝙏 𝙎𝙥𝙤𝙧𝙩𝙨 𝙃𝘿 
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="𝗦𝗽𝗼𝗿𝘁𝘀" tvg-logo="https://i.ibb.co/YP5XVnN/IMG-20240126-110302.j",𝙎𝙤𝙣𝙮 𝗟𝗶𝘃
